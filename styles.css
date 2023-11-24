@@ -1,0 +1,71 @@
+body {
+    background-color: #02231c;
+}
+
+main {
+    background-color: white;
+    margin: 30px 8px;
+    font-size: 1.5rem;
+    padding: 20px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+}
+
+#title {
+    text-align: center;
+    margin: 5px;
+}
+
+#quote {
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.imgs {
+    background-color: #02231c;
+    padding: 10px 10px 5px 10px;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.caption {
+    font-size: 1.2rem;
+    color: white;
+}
+
+.pictures {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    height: auto;
+    display: block;
+}
+
+h3 {
+    text-align: center;
+    margin: 50px 0;
+}
+
+ul {
+    max-width: 900px;
+    text-align: left;
+    font-size: 1.2rem;
+    line-height: 1.5;
+    margin: 0 auto;
+}
+
+.wiki {
+    font-size: 1.6rem;
+    text-align: center;
+}
+
+a {
+    color: #18392b;
+    position: relative;
+}
+
+a:hover {
+    scroll-behavior: smooth;
+    top: -3px;
+}
